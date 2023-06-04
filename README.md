@@ -19,7 +19,7 @@ A simple calculator application developed during my internship at InternPe.
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/lohith-lalam/Calculator----InternPe.git`
+1. Clone this repository:'https://github.com/Haswant1611/simple_calculator_internpe/tree/main'
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
@@ -41,5 +41,5 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 If you have any questions, suggestions, or would like to discuss collaboration opportunities, you can reach me at:
 
-- Email: [lohithlalam@outlook.com](mailto:lohithlalam@outlook.com)
-- LinkedIn: [Lohith Lalam](https://www.linkedin.com/in/lohithlalam)
+- Email: [haswanthh1611@gmail.com](haswanth1611@gmail.com)
+- LinkedIn: [Haswant Kumar Kinthali](https://www.linkedin.com/in/lohithlalam)
