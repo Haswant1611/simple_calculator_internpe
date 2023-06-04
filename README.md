@@ -38,4 +38,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 If you have any questions, suggestions, or would like to discuss collaboration opportunities, you can reach me at:
 
 - Email: [haswanthh1611@gmail.com](haswanth1611@gmail.com)
-- LinkedIn: [Haswant Kumar Kinthali](https://www.linkedin.com/in/lohithlalam)
+- LinkedIn: [Haswant Kumar Kinthali](https://www.linkedin.com/in/haswant-kumar-kinthali-ba547922a)
