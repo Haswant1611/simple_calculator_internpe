@@ -33,10 +33,6 @@ To get a local copy of the project up and running, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.txt).
-
 ## Contact
 
 If you have any questions, suggestions, or would like to discuss collaboration opportunities, you can reach me at:
